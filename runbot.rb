@@ -1,4 +1,4 @@
-###
+
 require 'discordrb'
 bot = Discordrb::Commands::CommandBot.new token: '<BOTTOKEN>', client_id: 140239236312989696, prefix: '!'
 
@@ -26,7 +26,7 @@ end                
 
 ##################################################################################################################################################################
 
-#Defineing Variables
+#Defineing Variables that will later be changed to use the mechanize gem
 
 mathletter = "A"
 mathgrade = "98.7"
